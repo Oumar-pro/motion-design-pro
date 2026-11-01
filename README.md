@@ -8,7 +8,7 @@ Dans Claude (onglet Code), colle ce message :
 
 ```
 Installe le pack Motion Design Pro depuis
-https://github.com/oumar-ai/motion-design-pro
+https://github.com/Oumar-pro/motion-design-pro
 Suis les instructions du README, puis vérifie que tout fonctionne.
 ```
 
